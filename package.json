@@ -29,7 +29,7 @@
     "@actions/core": "^2.0.2",
     "@actions/github": "^7.0.0",
     "@grpc/grpc-js": "^1.14.3",
-    "@supercharge/promise-pool": "^3.2.0",
+    "@supercharge/promise-pool": "^3.3.0",
     "@yandex-cloud/nodejs-sdk": "^3.0.0-beta.1",
     "axios": "^1.14.0",
     "yaml": "^2.8.2"
@@ -54,7 +54,7 @@
     "eslint-plugin-prefer-arrow-functions": "^3.9.1",
     "eslint-plugin-prettier": "^5.5.5",
     "eslint-plugin-unicorn": "^62.0.0",
-    "globals": "^17.4.0",
+    "globals": "^17.5.0",
     "jest": "^30.3.0",
     "js-yaml": "^4.1.1",
     "prettier": "3.8.1",
