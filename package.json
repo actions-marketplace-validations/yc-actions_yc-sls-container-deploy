@@ -33,7 +33,7 @@
     "author": "Nikolay Matrosov",
     "license": "MIT",
     "dependencies": {
-        "@actions/core": "^2.0.3",
+        "@actions/core": "^3.0.1",
         "@actions/github": "^9.1.1",
         "@grpc/grpc-js": "^1.14.4",
         "@supercharge/promise-pool": "^3.3.0",
